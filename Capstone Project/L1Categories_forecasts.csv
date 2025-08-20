@@ -1,0 +1,109 @@
+Group,Date,Forecast,DataType
+Advisory Services,2025-06-01,3989527.055121905,Forecast
+Advisory Services,2025-07-01,3937791.8838292332,Forecast
+Advisory Services,2025-08-01,3886727.6010683924,Forecast
+Advisory Services,2025-09-01,3836325.506927673,Forecast
+Advisory Services,2025-10-01,3786577.0143136065,Forecast
+Advisory Services,2025-11-01,3737473.6474879878,Forecast
+Advisory Services,2025-12-01,3689007.0406238055,Forecast
+Advisory Services,2026-01-01,3641168.936379971,Forecast
+Advisory Services,2026-02-01,3593951.1844944865,Forecast
+Advisory Services,2026-03-01,3547345.740395896,Forecast
+Advisory Services,2026-04-01,3501344.6638326794,Forecast
+Advisory Services,2026-05-01,3455940.117520477,Forecast
+Business (Corporate) Services,2025-06-01,9761646.241222672,Forecast
+Business (Corporate) Services,2025-07-01,10055585.31917669,Forecast
+Business (Corporate) Services,2025-08-01,10358375.381832857,Forecast
+Business (Corporate) Services,2025-09-01,10670282.946765937,Forecast
+Business (Corporate) Services,2025-10-01,10991582.556829253,Forecast
+Business (Corporate) Services,2025-11-01,11322557.021809002,Forecast
+Business (Corporate) Services,2025-12-01,11663497.66735486,Forecast
+Business (Corporate) Services,2026-01-01,12014704.59140661,Forecast
+Business (Corporate) Services,2026-02-01,12376486.928342236,Forecast
+Business (Corporate) Services,2026-03-01,12749163.121079545,Forecast
+Business (Corporate) Services,2026-04-01,13133061.201371597,Forecast
+Business (Corporate) Services,2026-05-01,13528519.078542305,Forecast
+Construction Services,2025-06-01,18141935.062010538,Forecast
+Construction Services,2025-07-01,18389399.887999628,Forecast
+Construction Services,2025-08-01,18640240.25468448,Forecast
+Construction Services,2025-09-01,18894502.206083387,Forecast
+Construction Services,2025-10-01,19152232.414277654,Forecast
+Construction Services,2025-11-01,19413478.187978297,Forecast
+Construction Services,2025-12-01,19678287.481210247,Forecast
+Construction Services,2026-01-01,19946708.902114686,Forecast
+Construction Services,2026-02-01,20218791.721871495,Forecast
+Construction Services,2026-03-01,20494585.88374337,Forecast
+Construction Services,2026-04-01,20774142.01224364,Forecast
+Construction Services,2026-05-01,21057511.422428414,Forecast
+Facilities Management,2025-06-01,4465667.482461252,Forecast
+Facilities Management,2025-07-01,4545873.352038481,Forecast
+Facilities Management,2025-08-01,4627519.763604102,Forecast
+Facilities Management,2025-09-01,4710632.590092723,Forecast
+Facilities Management,2025-10-01,4795238.169131265,Forecast
+Facilities Management,2025-11-01,4881363.311385053,Forecast
+Facilities Management,2025-12-01,4969035.309053872,Forecast
+Facilities Management,2026-01-01,5058281.944520551,Forecast
+Facilities Management,2026-02-01,5149131.499154983,Forecast
+Facilities Management,2026-03-01,5241612.76227617,Forecast
+Facilities Management,2026-04-01,5335755.040275292,Forecast
+Facilities Management,2026-05-01,5431588.16590257,Forecast
+Fleet,2025-06-01,3746584.6097131935,Forecast
+Fleet,2025-07-01,3865943.0703339125,Forecast
+Fleet,2025-08-01,3989104.0454060095,Forecast
+Fleet,2025-09-01,4116188.6751995333,Forecast
+Fleet,2025-10-01,4247321.959263779,Forecast
+Fleet,2025-11-01,4382632.879375926,Forecast
+Fleet,2025-12-01,4522254.526406634,Forecast
+Fleet,2026-01-01,4666324.231227284,Forecast
+Fleet,2026-02-01,4814983.699787652,Forecast
+Fleet,2026-03-01,4968379.152496913,Forecast
+Fleet,2026-04-01,5126661.468044966,Forecast
+Fleet,2026-05-01,5289986.331805682,Forecast
+Information Technology,2025-06-01,4040615.161167804,Forecast
+Information Technology,2025-07-01,3891145.903978214,Forecast
+Information Technology,2025-08-01,3747205.76994282,Forecast
+Information Technology,2025-09-01,3608590.2273510275,Forecast
+Information Technology,2025-10-01,3475102.310469608,Forecast
+Information Technology,2025-11-01,3346552.339664266,Forecast
+Information Technology,2025-12-01,3222757.651874416,Forecast
+Information Technology,2026-01-01,3103542.3410581006,Forecast
+Information Technology,2026-02-01,2988737.008238351,Forecast
+Information Technology,2026-03-01,2878178.5207957327,Forecast
+Information Technology,2026-04-01,2771709.780665075,Forecast
+Information Technology,2026-05-01,2669179.5011070003,Forecast
+Network Equipment,2025-06-01,16610035.743896736,Forecast
+Network Equipment,2025-07-01,17711539.456137978,Forecast
+Network Equipment,2025-08-01,18886089.996621486,Forecast
+Network Equipment,2025-09-01,20138531.50618572,Forecast
+Network Equipment,2025-10-01,21474029.367549624,Forecast
+Network Equipment,2025-11-01,22898091.508645546,Forecast
+Network Equipment,2025-12-01,24416591.11869497,Forecast
+Network Equipment,2026-01-01,26035790.870712537,Forecast
+Network Equipment,2026-02-01,27762368.750339575,Forecast
+Network Equipment,2026-03-01,29603445.597531047,Forecast
+Network Equipment,2026-04-01,31566614.474683866,Forecast
+Network Equipment,2026-05-01,33659971.982329845,Forecast
+Technical Services,2025-06-01,18671644.13206504,Forecast
+Technical Services,2025-07-01,18818970.876789283,Forecast
+Technical Services,2025-08-01,18967460.08849059,Forecast
+Technical Services,2025-09-01,19117120.939498644,Forecast
+Technical Services,2025-10-01,19267962.674516466,Forecast
+Technical Services,2025-11-01,19419994.611191493,Forecast
+Technical Services,2025-12-01,19573226.140691128,Forecast
+Technical Services,2026-01-01,19727666.728282843,Forecast
+Technical Services,2026-02-01,19883325.913918857,Forecast
+Technical Services,2026-03-01,20040213.31282543,Forecast
+Technical Services,2026-04-01,20198338.61609681,Forecast
+Technical Services,2026-05-01,20357711.59129385,Forecast
+Network Services,2025-06-01,4203166.697132768,Forecast
+Network Services,2025-07-01,4274351.604163439,Forecast
+Network Services,2025-08-01,4346742.100064137,Forecast
+Network Services,2025-09-01,4420358.602709736,Forecast
+Network Services,2025-10-01,4495221.875772575,Forecast
+Network Services,2025-11-01,4571353.034578956,Forecast
+Network Services,2025-12-01,4648773.552064694,Forecast
+Network Services,2026-01-01,4727505.264831659,Forecast
+Network Services,2026-02-01,4807570.379306803,Forecast
+Network Services,2026-03-01,4888991.4780055005,Forecast
+Network Services,2026-04-01,4971791.5259010475,Forecast
+Network Services,2026-05-01,5055993.876901909,Forecast

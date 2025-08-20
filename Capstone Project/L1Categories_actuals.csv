@@ -1,0 +1,513 @@
+Group,Date,Actual,TestForecast,DataType
+Advisory Services,2020-09-01,106961.5,,Train
+Advisory Services,2020-10-01,2342004.13,,Train
+Advisory Services,2020-11-01,3359809.39,,Train
+Advisory Services,2020-12-01,2497103.67,,Train
+Advisory Services,2021-01-01,664496.91,,Train
+Advisory Services,2021-02-01,1929541.85,,Train
+Advisory Services,2021-03-01,2410909.42,,Train
+Advisory Services,2021-04-01,2478395.67,,Train
+Advisory Services,2021-05-01,1257863.51,,Train
+Advisory Services,2021-06-01,2920408.58,,Train
+Advisory Services,2021-07-01,1706578.31,,Train
+Advisory Services,2021-08-01,2312979.29,,Train
+Advisory Services,2021-09-01,2437375.21,,Train
+Advisory Services,2021-10-01,2139604.02,,Train
+Advisory Services,2021-11-01,1554716.01,,Train
+Advisory Services,2021-12-01,3773633.49,,Train
+Advisory Services,2022-01-01,1956272.26,,Train
+Advisory Services,2022-02-01,2702125.63,,Train
+Advisory Services,2022-03-01,2048795.93,,Train
+Advisory Services,2022-04-01,2776370.55,,Train
+Advisory Services,2022-05-01,3057495.38,,Train
+Advisory Services,2022-06-01,5494516.9,,Train
+Advisory Services,2022-07-01,4557554.38,,Train
+Advisory Services,2022-08-01,2320794.25,,Train
+Advisory Services,2022-09-01,3911059.1,,Train
+Advisory Services,2022-10-01,2819320.36,,Train
+Advisory Services,2022-11-01,4095932.34,,Train
+Advisory Services,2022-12-01,3803877.69,,Train
+Advisory Services,2023-01-01,3523033.4699999997,,Train
+Advisory Services,2023-02-01,2428025.99,,Train
+Advisory Services,2023-03-01,4456903.18,,Train
+Advisory Services,2023-04-01,3631136.48,,Train
+Advisory Services,2023-05-01,3816816.62,,Train
+Advisory Services,2023-06-01,4818865.63,,Train
+Advisory Services,2023-07-01,4503172.03,,Train
+Advisory Services,2023-08-01,4221376.45,,Train
+Advisory Services,2023-09-01,4461500.36,,Train
+Advisory Services,2023-10-01,1710339.3,,Train
+Advisory Services,2023-11-01,6230995.0,,Train
+Advisory Services,2023-12-01,5146037.71,,Train
+Advisory Services,2024-01-01,4317343.43,,Train
+Advisory Services,2024-02-01,4790320.7299999995,,Train
+Advisory Services,2024-03-01,8595761.35,,Train
+Advisory Services,2024-04-01,3622751.8,,Train
+Advisory Services,2024-05-01,6462373.93,,Train
+Advisory Services,2024-06-01,3022460.68,6186421.901316722,Test
+Advisory Services,2024-07-01,5790071.05,6397850.467148707,Test
+Advisory Services,2024-08-01,5810511.41,6616504.8638669215,Test
+Advisory Services,2024-09-01,3416086.95,6842632.04311572,Test
+Advisory Services,2024-10-01,4267259.47,7076487.396415181,Test
+Advisory Services,2024-11-01,2497622.28,7318335.04360422,Test
+Advisory Services,2024-12-01,4140796.97,7568448.131141602,Test
+Advisory Services,2025-01-01,3663804.04,7827109.140601764,Test
+Advisory Services,2025-02-01,2713773.15,8094610.20771386,Test
+Advisory Services,2025-03-01,4590984.96,8371253.452304345,Test
+Advisory Services,2025-04-01,3453040.54,8657351.31951577,Test
+Advisory Services,2025-05-01,4542091.5,8953226.932687124,Test
+Business (Corporate) Services,2020-09-01,67791.71,,Train
+Business (Corporate) Services,2020-10-01,4046191.33,,Train
+Business (Corporate) Services,2020-11-01,3559667.53,,Train
+Business (Corporate) Services,2020-12-01,7309741.07,,Train
+Business (Corporate) Services,2021-01-01,1686719.79,,Train
+Business (Corporate) Services,2021-02-01,4781256.34,,Train
+Business (Corporate) Services,2021-03-01,7696681.45,,Train
+Business (Corporate) Services,2021-04-01,8144669.77,,Train
+Business (Corporate) Services,2021-05-01,3663054.99,,Train
+Business (Corporate) Services,2021-06-01,8256159.6,,Train
+Business (Corporate) Services,2021-07-01,6092727.72,,Train
+Business (Corporate) Services,2021-08-01,4895407.41,,Train
+Business (Corporate) Services,2021-09-01,7372382.44,,Train
+Business (Corporate) Services,2021-10-01,5786636.22,,Train
+Business (Corporate) Services,2021-11-01,7550697.94,,Train
+Business (Corporate) Services,2021-12-01,10313705.33,,Train
+Business (Corporate) Services,2022-01-01,5843481.31,,Train
+Business (Corporate) Services,2022-02-01,4976433.0,,Train
+Business (Corporate) Services,2022-03-01,5946724.01,,Train
+Business (Corporate) Services,2022-04-01,6104738.38,,Train
+Business (Corporate) Services,2022-05-01,4629070.6,,Train
+Business (Corporate) Services,2022-06-01,7450579.47,,Train
+Business (Corporate) Services,2022-07-01,7670370.07,,Train
+Business (Corporate) Services,2022-08-01,4880890.59,,Train
+Business (Corporate) Services,2022-09-01,6050132.39,,Train
+Business (Corporate) Services,2022-10-01,5748327.57,,Train
+Business (Corporate) Services,2022-11-01,9323635.34,,Train
+Business (Corporate) Services,2022-12-01,9743938.629999999,,Train
+Business (Corporate) Services,2023-01-01,6196573.83,,Train
+Business (Corporate) Services,2023-02-01,4562681.03,,Train
+Business (Corporate) Services,2023-03-01,8957588.85,,Train
+Business (Corporate) Services,2023-04-01,7024053.05,,Train
+Business (Corporate) Services,2023-05-01,6647800.399999999,,Train
+Business (Corporate) Services,2023-06-01,9741360.73,,Train
+Business (Corporate) Services,2023-07-01,9954541.209999999,,Train
+Business (Corporate) Services,2023-08-01,8703241.93,,Train
+Business (Corporate) Services,2023-09-01,6567523.100000001,,Train
+Business (Corporate) Services,2023-10-01,2639944.07,,Train
+Business (Corporate) Services,2023-11-01,9628459.26,,Train
+Business (Corporate) Services,2023-12-01,5109646.19,,Train
+Business (Corporate) Services,2024-01-01,4955413.1,,Train
+Business (Corporate) Services,2024-02-01,6034397.85,,Train
+Business (Corporate) Services,2024-03-01,6339614.31,,Train
+Business (Corporate) Services,2024-04-01,7021870.33,,Train
+Business (Corporate) Services,2024-05-01,7324806.0200000005,,Train
+Business (Corporate) Services,2024-06-01,7852858.15,6123899.173275457,Test
+Business (Corporate) Services,2024-07-01,8921496.16,6183843.808740022,Test
+Business (Corporate) Services,2024-08-01,7918250.75,6244375.220573591,Test
+Business (Corporate) Services,2024-09-01,6763729.67,6305499.152517923,Test
+Business (Corporate) Services,2024-10-01,10091342.02,6367221.404538223,Test
+Business (Corporate) Services,2024-11-01,7839522.0,6429547.833373442,Test
+Business (Corporate) Services,2024-12-01,6505997.44,6492484.35309204,Test
+Business (Corporate) Services,2025-01-01,9048066.99,6556036.935653159,Test
+Business (Corporate) Services,2025-02-01,8549338.63,6620211.611473262,Test
+Business (Corporate) Services,2025-03-01,8467652.13,6685014.469998411,Test
+Business (Corporate) Services,2025-04-01,8523255.53,6750451.660282041,Test
+Business (Corporate) Services,2025-05-01,11014223.93,6816529.391568452,Test
+Construction Services,2020-09-01,464102.0,,Train
+Construction Services,2020-10-01,46286413.97,,Train
+Construction Services,2020-11-01,32695464.0,,Train
+Construction Services,2020-12-01,35692515.94,,Train
+Construction Services,2021-01-01,36670411.620000005,,Train
+Construction Services,2021-02-01,31470089.06,,Train
+Construction Services,2021-03-01,54520133.97,,Train
+Construction Services,2021-04-01,46939785.730000004,,Train
+Construction Services,2021-05-01,18601105.54,,Train
+Construction Services,2021-06-01,30872265.78,,Train
+Construction Services,2021-07-01,27013461.41,,Train
+Construction Services,2021-08-01,12853306.34,,Train
+Construction Services,2021-09-01,10460852.2,,Train
+Construction Services,2021-10-01,7790286.4399999995,,Train
+Construction Services,2021-11-01,6796405.57,,Train
+Construction Services,2021-12-01,12646198.41,,Train
+Construction Services,2022-01-01,6533226.76,,Train
+Construction Services,2022-02-01,6915095.72,,Train
+Construction Services,2022-03-01,10540766.58,,Train
+Construction Services,2022-04-01,9006688.49,,Train
+Construction Services,2022-05-01,8106619.04,,Train
+Construction Services,2022-06-01,11869878.68,,Train
+Construction Services,2022-07-01,10293561.45,,Train
+Construction Services,2022-08-01,10744653.89,,Train
+Construction Services,2022-09-01,9554732.81,,Train
+Construction Services,2022-10-01,9531992.03,,Train
+Construction Services,2022-11-01,11975159.6,,Train
+Construction Services,2022-12-01,10073902.92,,Train
+Construction Services,2023-01-01,4548921.98,,Train
+Construction Services,2023-02-01,9538136.4,,Train
+Construction Services,2023-03-01,9402993.7,,Train
+Construction Services,2023-04-01,13025651.08,,Train
+Construction Services,2023-05-01,7203874.01,,Train
+Construction Services,2023-06-01,10251300.24,,Train
+Construction Services,2023-07-01,9411663.97,,Train
+Construction Services,2023-08-01,7218722.29,,Train
+Construction Services,2023-09-01,17331897.41,,Train
+Construction Services,2023-10-01,6724922.66,,Train
+Construction Services,2023-11-01,6591221.8100000005,,Train
+Construction Services,2023-12-01,11813003.47,,Train
+Construction Services,2024-01-01,11235281.98,,Train
+Construction Services,2024-02-01,7917354.8,,Train
+Construction Services,2024-03-01,12427593.209999999,,Train
+Construction Services,2024-04-01,7076853.91,,Train
+Construction Services,2024-05-01,18273162.330000002,,Train
+Construction Services,2024-06-01,5537756.72,11969646.494017707,Test
+Construction Services,2024-07-01,16715522.05,12097027.368678497,Test
+Construction Services,2024-08-01,10106398.15,12225763.829507805,Test
+Construction Services,2024-09-01,7304082.63,12355870.302641936,Test
+Construction Services,2024-10-01,10494775.62,12487361.367740009,Test
+Construction Services,2024-11-01,15342545.48,12620251.759617753,Test
+Construction Services,2024-12-01,20875147.73,12754556.369898677,Test
+Construction Services,2025-01-01,17320079.62,12890290.24868282,Test
+Construction Services,2025-02-01,11818945.27,13027468.606233254,Test
+Construction Services,2025-03-01,20089362.68,13166106.814680541,Test
+Construction Services,2025-04-01,17638749.13,13306220.409745324,Test
+Construction Services,2025-05-01,19858097.16,13447825.09247925,Test
+Facilities Management,2020-09-01,945388.99,,Train
+Facilities Management,2020-10-01,3238309.98,,Train
+Facilities Management,2020-11-01,1200756.81,,Train
+Facilities Management,2020-12-01,3751264.79,,Train
+Facilities Management,2021-01-01,1176523.5899999999,,Train
+Facilities Management,2021-02-01,2221663.8000000003,,Train
+Facilities Management,2021-03-01,3812812.69,,Train
+Facilities Management,2021-04-01,2874119.16,,Train
+Facilities Management,2021-05-01,1308720.83,,Train
+Facilities Management,2021-06-01,2955217.55,,Train
+Facilities Management,2021-07-01,1772759.95,,Train
+Facilities Management,2021-08-01,714956.62,,Train
+Facilities Management,2021-09-01,1128354.29,,Train
+Facilities Management,2021-10-01,2800842.55,,Train
+Facilities Management,2021-11-01,2139934.73,,Train
+Facilities Management,2021-12-01,3591720.73,,Train
+Facilities Management,2022-01-01,647146.6,,Train
+Facilities Management,2022-02-01,1487837.43,,Train
+Facilities Management,2022-03-01,1633397.39,,Train
+Facilities Management,2022-04-01,2985548.84,,Train
+Facilities Management,2022-05-01,2271455.18,,Train
+Facilities Management,2022-06-01,3134660.73,,Train
+Facilities Management,2022-07-01,3453909.55,,Train
+Facilities Management,2022-08-01,2203543.2,,Train
+Facilities Management,2022-09-01,3455221.0300000003,,Train
+Facilities Management,2022-10-01,1910654.42,,Train
+Facilities Management,2022-11-01,2406724.9499999997,,Train
+Facilities Management,2022-12-01,3018856.0,,Train
+Facilities Management,2023-01-01,782417.84,,Train
+Facilities Management,2023-02-01,3046890.38,,Train
+Facilities Management,2023-03-01,1552993.6,,Train
+Facilities Management,2023-04-01,2983631.68,,Train
+Facilities Management,2023-05-01,6906336.11,,Train
+Facilities Management,2023-06-01,6613812.75,,Train
+Facilities Management,2023-07-01,6617048.0600000005,,Train
+Facilities Management,2023-08-01,8144406.859999999,,Train
+Facilities Management,2023-09-01,1880154.11,,Train
+Facilities Management,2023-10-01,1038420.76,,Train
+Facilities Management,2023-11-01,6998856.149999999,,Train
+Facilities Management,2023-12-01,5576106.0,,Train
+Facilities Management,2024-01-01,1906705.39,,Train
+Facilities Management,2024-02-01,4164286.85,,Train
+Facilities Management,2024-03-01,2639120.29,,Train
+Facilities Management,2024-04-01,1291738.22,,Train
+Facilities Management,2024-05-01,3672673.36,,Train
+Facilities Management,2024-06-01,2284131.07,3508708.5856932933,Test
+Facilities Management,2024-07-01,3400364.17,3567416.940863303,Test
+Facilities Management,2024-08-01,2528948.5,3627107.6149927224,Test
+Facilities Management,2024-09-01,5350287.1,3687797.0444224295,Test
+Facilities Management,2024-10-01,2657373.83,3749501.940509172,Test
+Facilities Management,2024-11-01,3863533.03,3812239.294227181,Test
+Facilities Management,2024-12-01,3332957.44,3876026.3808467826,Test
+Facilities Management,2025-01-01,1469451.55,3940880.764691293,Test
+Facilities Management,2025-02-01,6174876.74,4006820.303973505,Test
+Facilities Management,2025-03-01,29156180.13,4073863.1557131014,Test
+Facilities Management,2025-04-01,4065992.91,4142027.7807363463,Test
+Facilities Management,2025-05-01,4023288.54,4211332.948759439,Test
+Fleet,2020-09-01,54913.600000000006,,Train
+Fleet,2020-10-01,375176.48,,Train
+Fleet,2020-11-01,954012.3200000001,,Train
+Fleet,2020-12-01,1022061.22,,Train
+Fleet,2021-01-01,270100.76,,Train
+Fleet,2021-02-01,798039.02,,Train
+Fleet,2021-03-01,2760523.46,,Train
+Fleet,2021-04-01,3717488.87,,Train
+Fleet,2021-05-01,1422305.24,,Train
+Fleet,2021-06-01,1701585.58,,Train
+Fleet,2021-07-01,2545696.39,,Train
+Fleet,2021-08-01,725962.14,,Train
+Fleet,2021-09-01,224883.79,,Train
+Fleet,2021-10-01,1238669.27,,Train
+Fleet,2021-11-01,1291443.75,,Train
+Fleet,2021-12-01,2112550.37,,Train
+Fleet,2022-01-01,997847.75,,Train
+Fleet,2022-02-01,1198429.3,,Train
+Fleet,2022-03-01,1332050.6099999999,,Train
+Fleet,2022-04-01,2355373.2399999998,,Train
+Fleet,2022-05-01,2153108.84,,Train
+Fleet,2022-06-01,2262811.11,,Train
+Fleet,2022-07-01,1136565.5,,Train
+Fleet,2022-08-01,695989.12,,Train
+Fleet,2022-09-01,926676.59,,Train
+Fleet,2022-10-01,755721.46,,Train
+Fleet,2022-11-01,1147900.8699999999,,Train
+Fleet,2022-12-01,1726122.73,,Train
+Fleet,2023-01-01,558733.89,,Train
+Fleet,2023-02-01,1887543.03,,Train
+Fleet,2023-03-01,1877673.33,,Train
+Fleet,2023-04-01,1475279.25,,Train
+Fleet,2023-05-01,1873847.6300000001,,Train
+Fleet,2023-06-01,3479485.8,,Train
+Fleet,2023-07-01,1086783.69,,Train
+Fleet,2023-08-01,1389532.3599999999,,Train
+Fleet,2023-09-01,2106989.65,,Train
+Fleet,2023-10-01,47957.91,,Train
+Fleet,2023-11-01,4572323.05,,Train
+Fleet,2023-12-01,1069983.4,,Train
+Fleet,2024-01-01,2221412.15,,Train
+Fleet,2024-02-01,1696065.6,,Train
+Fleet,2024-03-01,2117118.52,,Train
+Fleet,2024-04-01,1856113.25,,Train
+Fleet,2024-05-01,2854759.04,,Train
+Fleet,2024-06-01,3972449.69,1908145.1930846183,Test
+Fleet,2024-07-01,2386921.15,1948321.270316596,Test
+Fleet,2024-08-01,1525296.93,1989343.2565431297,Test
+Fleet,2024-09-01,3023163.23,2031228.9624136502,Test
+Fleet,2024-10-01,3457435.58,2073996.573581557,Test
+Fleet,2024-11-01,5068381.88,2117664.6585999564,Test
+Fleet,2024-12-01,3251630.23,2162252.1769836103,Test
+Fleet,2025-01-01,3735633.23,2207778.487440664,Test
+Fleet,2025-02-01,4018447.2,2254263.3562776763,Test
+Fleet,2025-03-01,6140948.41,2301726.965981622,Test
+Fleet,2025-04-01,5423951.51,2350189.9239825867,Test
+Fleet,2025-05-01,6724881.86,2399673.271600963,Test
+Information Technology,2020-09-01,72276.06000000001,,Train
+Information Technology,2020-10-01,1996147.65,,Train
+Information Technology,2020-11-01,1058243.09,,Train
+Information Technology,2020-12-01,2218654.88,,Train
+Information Technology,2021-01-01,460114.62,,Train
+Information Technology,2021-02-01,2536471.36,,Train
+Information Technology,2021-03-01,3599420.42,,Train
+Information Technology,2021-04-01,5520036.17,,Train
+Information Technology,2021-05-01,1530327.02,,Train
+Information Technology,2021-06-01,5930572.87,,Train
+Information Technology,2021-07-01,3955790.42,,Train
+Information Technology,2021-08-01,3192488.0,,Train
+Information Technology,2021-09-01,1906150.06,,Train
+Information Technology,2021-10-01,1728464.84,,Train
+Information Technology,2021-11-01,2585692.92,,Train
+Information Technology,2021-12-01,2938341.81,,Train
+Information Technology,2022-01-01,1906389.61,,Train
+Information Technology,2022-02-01,2605991.24,,Train
+Information Technology,2022-03-01,3300481.68,,Train
+Information Technology,2022-04-01,4638613.59,,Train
+Information Technology,2022-05-01,4417692.71,,Train
+Information Technology,2022-06-01,7060252.63,,Train
+Information Technology,2022-07-01,7249691.75,,Train
+Information Technology,2022-08-01,2402274.81,,Train
+Information Technology,2022-09-01,3464297.56,,Train
+Information Technology,2022-10-01,4345856.8,,Train
+Information Technology,2022-11-01,4767616.67,,Train
+Information Technology,2022-12-01,4757017.04,,Train
+Information Technology,2023-01-01,3127657.11,,Train
+Information Technology,2023-02-01,6964365.02,,Train
+Information Technology,2023-03-01,6442491.34,,Train
+Information Technology,2023-04-01,6136590.96,,Train
+Information Technology,2023-05-01,6173150.65,,Train
+Information Technology,2023-06-01,6805470.69,,Train
+Information Technology,2023-07-01,11217635.91,,Train
+Information Technology,2023-08-01,12106226.01,,Train
+Information Technology,2023-09-01,5886627.97,,Train
+Information Technology,2023-10-01,2470095.66,,Train
+Information Technology,2023-11-01,9224001.41,,Train
+Information Technology,2023-12-01,8156195.13,,Train
+Information Technology,2024-01-01,5279908.05,,Train
+Information Technology,2024-02-01,5337503.52,,Train
+Information Technology,2024-03-01,5085988.38,,Train
+Information Technology,2024-04-01,5109533.12,,Train
+Information Technology,2024-05-01,5022872.75,,Train
+Information Technology,2024-06-01,3555431.11,6838676.169499481,Test
+Information Technology,2024-07-01,16812073.39,7185807.640054645,Test
+Information Technology,2024-08-01,7438467.37,7550559.51766858,Test
+Information Technology,2024-09-01,3821643.89,7933826.214894619,Test
+Information Technology,2024-10-01,4679290.65,8336547.544702365,Test
+Information Technology,2024-11-01,5360008.17,8759711.02500463,Test
+Information Technology,2024-12-01,2048960.42,9204354.300162181,Test
+Information Technology,2025-01-01,5205731.73,9671567.685404204,Test
+Information Technology,2025-02-01,6728349.91,10162496.840403788,Test
+Information Technology,2025-03-01,5268741.07,10678345.578563808,Test
+Information Technology,2025-04-01,2258989.2,11220378.818902833,Test
+Information Technology,2025-05-01,4130756.75,11789925.687778309,Test
+Network Equipment,2020-09-01,50000.0,,Train
+Network Equipment,2020-10-01,1681696.52,,Train
+Network Equipment,2020-11-01,866130.96,,Train
+Network Equipment,2020-12-01,3610330.47,,Train
+Network Equipment,2021-01-01,1260514.29,,Train
+Network Equipment,2021-02-01,5660133.66,,Train
+Network Equipment,2021-03-01,12365873.89,,Train
+Network Equipment,2021-04-01,11721156.28,,Train
+Network Equipment,2021-05-01,2821292.74,,Train
+Network Equipment,2021-06-01,16872687.97,,Train
+Network Equipment,2021-07-01,8211234.1899999995,,Train
+Network Equipment,2021-08-01,3157908.36,,Train
+Network Equipment,2021-09-01,4978664.29,,Train
+Network Equipment,2021-10-01,4741579.5200000005,,Train
+Network Equipment,2021-11-01,3649371.69,,Train
+Network Equipment,2021-12-01,12413802.82,,Train
+Network Equipment,2022-01-01,2148942.73,,Train
+Network Equipment,2022-02-01,4163452.77,,Train
+Network Equipment,2022-03-01,4633754.28,,Train
+Network Equipment,2022-04-01,4289438.86,,Train
+Network Equipment,2022-05-01,9564845.43,,Train
+Network Equipment,2022-06-01,10958679.15,,Train
+Network Equipment,2022-07-01,15950684.14,,Train
+Network Equipment,2022-08-01,20254686.5,,Train
+Network Equipment,2022-09-01,6492333.22,,Train
+Network Equipment,2022-10-01,16285017.11,,Train
+Network Equipment,2022-11-01,8412044.78,,Train
+Network Equipment,2022-12-01,5386580.43,,Train
+Network Equipment,2023-01-01,13581417.78,,Train
+Network Equipment,2023-02-01,4613244.95,,Train
+Network Equipment,2023-03-01,9743689.82,,Train
+Network Equipment,2023-04-01,3604407.53,,Train
+Network Equipment,2023-05-01,5114263.92,,Train
+Network Equipment,2023-06-01,23369012.57,,Train
+Network Equipment,2023-07-01,9942096.94,,Train
+Network Equipment,2023-08-01,5557752.88,,Train
+Network Equipment,2023-09-01,7066640.53,,Train
+Network Equipment,2023-10-01,809251.93,,Train
+Network Equipment,2023-11-01,9425154.4,,Train
+Network Equipment,2023-12-01,4450697.38,,Train
+Network Equipment,2024-01-01,10670105.81,,Train
+Network Equipment,2024-02-01,13444562.01,,Train
+Network Equipment,2024-03-01,13168324.68,,Train
+Network Equipment,2024-04-01,7411217.43,,Train
+Network Equipment,2024-05-01,5431153.6899999995,,Train
+Network Equipment,2024-06-01,6412974.7,8726931.069222113,Test
+Network Equipment,2024-07-01,4251416.84,9347260.021486646,Test
+Network Equipment,2024-08-01,6127950.68,10011683.284335867,Test
+Network Equipment,2024-09-01,10128950.01,10723335.175810032,Test
+Network Equipment,2024-10-01,5007909.899999999,11485572.80798883,Test
+Network Equipment,2024-11-01,16464511.77,12301991.923669204,Test
+Network Equipment,2024-12-01,7908818.96,13176443.858747508,Test
+Network Equipment,2025-01-01,13505573.120000001,14113053.71032481,Test
+Network Equipment,2025-02-01,4374623.93,15116239.796239316,Test
+Network Equipment,2025-03-01,7568031.66,16190734.49782479,Test
+Network Equipment,2025-04-01,22070020.46,17341606.584216077,Test
+Network Equipment,2025-05-01,19854221.82,18574285.123514958,Test
+Technical Services,2020-09-01,96030.95,,Train
+Technical Services,2020-10-01,2058271.73,,Train
+Technical Services,2020-11-01,1694425.49,,Train
+Technical Services,2020-12-01,11853589.97,,Train
+Technical Services,2021-01-01,1017439.1699999999,,Train
+Technical Services,2021-02-01,3532917.06,,Train
+Technical Services,2021-03-01,5440055.39,,Train
+Technical Services,2021-04-01,5932594.13,,Train
+Technical Services,2021-05-01,3927135.75,,Train
+Technical Services,2021-06-01,31585907.33,,Train
+Technical Services,2021-07-01,5890399.8,,Train
+Technical Services,2021-08-01,3329820.91,,Train
+Technical Services,2021-09-01,4025319.29,,Train
+Technical Services,2021-10-01,4472282.68,,Train
+Technical Services,2021-11-01,11114748.4,,Train
+Technical Services,2021-12-01,4791910.14,,Train
+Technical Services,2022-01-01,2656470.71,,Train
+Technical Services,2022-02-01,9363652.81,,Train
+Technical Services,2022-03-01,5528696.48,,Train
+Technical Services,2022-04-01,4530196.35,,Train
+Technical Services,2022-05-01,2795025.42,,Train
+Technical Services,2022-06-01,13260978.379999999,,Train
+Technical Services,2022-07-01,4155619.5,,Train
+Technical Services,2022-08-01,5603455.13,,Train
+Technical Services,2022-09-01,4639271.84,,Train
+Technical Services,2022-10-01,2820414.06,,Train
+Technical Services,2022-11-01,4877387.35,,Train
+Technical Services,2022-12-01,7147033.95,,Train
+Technical Services,2023-01-01,5540510.87,,Train
+Technical Services,2023-02-01,3123809.9,,Train
+Technical Services,2023-03-01,7210271.28,,Train
+Technical Services,2023-04-01,3805378.96,,Train
+Technical Services,2023-05-01,8508375.01,,Train
+Technical Services,2023-06-01,5009404.81,,Train
+Technical Services,2023-07-01,6356893.0200000005,,Train
+Technical Services,2023-08-01,6252625.08,,Train
+Technical Services,2023-09-01,5239790.36,,Train
+Technical Services,2023-10-01,4099600.51,,Train
+Technical Services,2023-11-01,5976227.92,,Train
+Technical Services,2023-12-01,8520984.85,,Train
+Technical Services,2024-01-01,8070490.91,,Train
+Technical Services,2024-02-01,9745671.75,,Train
+Technical Services,2024-03-01,10891768.58,,Train
+Technical Services,2024-04-01,7350668.97,,Train
+Technical Services,2024-05-01,8155550.74,,Train
+Technical Services,2024-06-01,16781973.05,9778710.523392094,Test
+Technical Services,2024-07-01,14344119.43,10311786.663383814,Test
+Technical Services,2024-08-01,17637386.32,10873922.889605582,Test
+Technical Services,2024-09-01,11396708.57,11466703.382155368,Test
+Technical Services,2024-10-01,21055792.98,12091798.681046473,Test
+Technical Services,2024-11-01,14332109.99,12750970.394027425,Test
+Technical Services,2024-12-01,17817817.04,13446076.161044134,Test
+Technical Services,2025-01-01,18299381.52,14179074.8893343,Test
+Technical Services,2025-02-01,18314152.8,14952032.273907527,Test
+Technical Services,2025-03-01,10732297.52,15767126.618968613,Test
+Technical Services,2025-04-01,21236214.919999998,16626654.976689635,Test
+Technical Services,2025-05-01,17521740.45,17533039.62063067,Test
+Network Services,2020-10-01,1682861.04,,Train
+Network Services,2020-11-01,1584713.5899999999,,Train
+Network Services,2020-12-01,2499364.68,,Train
+Network Services,2021-01-01,472353.56,,Train
+Network Services,2021-02-01,631579.16,,Train
+Network Services,2021-03-01,3485012.22,,Train
+Network Services,2021-04-01,5429339.58,,Train
+Network Services,2021-05-01,1711203.32,,Train
+Network Services,2021-06-01,4177022.15,,Train
+Network Services,2021-07-01,1875214.3599999999,,Train
+Network Services,2021-08-01,2099420.13,,Train
+Network Services,2021-09-01,2029973.6199999999,,Train
+Network Services,2021-10-01,2903732.33,,Train
+Network Services,2021-11-01,3413442.5900000003,,Train
+Network Services,2021-12-01,5625150.45,,Train
+Network Services,2022-01-01,2293458.29,,Train
+Network Services,2022-02-01,2579122.0500000003,,Train
+Network Services,2022-03-01,4675278.23,,Train
+Network Services,2022-04-01,4913079.6,,Train
+Network Services,2022-05-01,5758004.94,,Train
+Network Services,2022-06-01,7047084.37,,Train
+Network Services,2022-07-01,15119151.99,,Train
+Network Services,2022-08-01,5573018.73,,Train
+Network Services,2022-09-01,4899726.17,,Train
+Network Services,2022-10-01,6832365.09,,Train
+Network Services,2022-11-01,4586648.42,,Train
+Network Services,2022-12-01,6412214.45,,Train
+Network Services,2023-01-01,3918668.13,,Train
+Network Services,2023-02-01,2842328.13,,Train
+Network Services,2023-03-01,5477720.41,,Train
+Network Services,2023-04-01,3271651.06,,Train
+Network Services,2023-05-01,2791249.64,,Train
+Network Services,2023-06-01,7362546.43,,Train
+Network Services,2023-07-01,9772425.87,,Train
+Network Services,2023-08-01,3303874.13,,Train
+Network Services,2023-09-01,5055097.83,,Train
+Network Services,2023-10-01,352599.08,,Train
+Network Services,2023-11-01,5096289.04,,Train
+Network Services,2023-12-01,5056532.97,,Train
+Network Services,2024-01-01,2174938.38,,Train
+Network Services,2024-02-01,3719392.46,,Train
+Network Services,2024-03-01,4239122.52,,Train
+Network Services,2024-04-01,5276190.05,,Train
+Network Services,2024-05-01,5400537.71,,Train
+Network Services,2024-06-01,5809041.36,4576551.852550892,Test
+Network Services,2024-07-01,5788994.76,4686041.562661647,Test
+Network Services,2024-08-01,4931405.36,4798150.711381724,Test
+Network Services,2024-09-01,3701003.19,4912941.966322728,Test
+Network Services,2024-10-01,6347379.84,5030479.494360089,Test
+Network Services,2024-11-01,4336426.8,5150828.997501539,Test
+Network Services,2024-12-01,4254536.99,5274057.749613715,Test
+Network Services,2025-01-01,2755736.7399999998,5400234.6340274075,Test
+Network Services,2025-02-01,3736449.5100000002,5529430.182042472,Test
+Network Services,2025-03-01,3822474.58,5661716.612353982,Test
+Network Services,2025-04-01,2895849.41,5797167.871421519,Test
+Network Services,2025-05-01,4259795.95,5935859.67480435,Test
